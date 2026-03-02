@@ -3,10 +3,6 @@ Runtime Library for projects by bbzer0 (me). Some of my programs can't work with
 
 ## bbruntime contains these scripts:
 - bbruntime Installer
-  > Run by using PowerShell command/BAT Script/PS1 Script
-- bbruntime QuickInstaller *(installer without waiting for user input and also full installation ONLY)*
-  > Run by using PowerShell command/BAT Script/PS1 Script
-- bbruntime Updates service *(Updates service is a components updater)*
+  > Run by using PowerShell command
+- bbruntime Updater
   > Run 'C:/Program Files/bbzer0/bbruntime/bbruntime_updater.bat'
-  >
-  > Run by using PowerShell command/BAT Script/PS1 Script
